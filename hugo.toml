@@ -1,0 +1,17 @@
+theme = "stack"
+baseURL = "https://example.com/"
+title = "Jade Tan"
+
+defaultContentLanguage = "en"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+    identifier = "home"
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about/"
+    weight = 1
+    identifier = "about"
